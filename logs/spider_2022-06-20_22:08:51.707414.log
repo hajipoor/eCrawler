@@ -1,0 +1,614 @@
+INFO:20-Jun 22:08: 2 seeds are added to link-pool....
+INFO:20-Jun 22:08: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:08: Extracted 146 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:08: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:08: Extracted 108 links from www.miribel.fr host
+INFO:20-Jun 22:08: Processing 52 page-links, 0 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:08: Extracted 92 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:09: Processing 46 page-links, 2 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:09: Extracted 383 links from www.miribel.fr host
+INFO:20-Jun 22:09: Processing 32 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:09: Extracted 90 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:09: Processing 17 page-links, 50 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:09: Extracted 287 links from www.miribel.fr host
+INFO:20-Jun 22:09: Processing 19 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:09: Extracted 21 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:10: Processing 17 page-links, 63 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:10: Extracted 86 links from www.miribel.fr host
+INFO:20-Jun 22:10: Processing 27 page-links, 0 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:10: Extracted 78 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:10: Processing 12 page-links, 61 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:10: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:11: Processing 25 page-links, 3 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:11: Extracted 26 links from www.ville-fosses95.fr host
+ERROR:20-Jun 22:16: Failed to get link type: http://www.miribel.fr/telechargements/vie-municipale/1723-annexe-4-compte-administratif-et-budget-2021 	 
+INFO:20-Jun 22:16: Processing 21 page-links, 50 pdf-links and 1 failed-links from www.miribel.fr
+INFO:20-Jun 22:16: Extracted 31 links from www.miribel.fr host
+INFO:20-Jun 22:16: Processing 31 page-links, 2 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:16: Extracted 67 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:16: Processing 16 page-links, 51 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:16: Extracted 6 links from www.miribel.fr host
+INFO:20-Jun 22:17: Processing 13 page-links, 50 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:17: Extracted 52 links from www.miribel.fr host
+ERROR:20-Jun 22:21: Failed to get link type: https://www.ville-fosses95.fr/commerces-entreprises?combine=&page=4 	 
+INFO:20-Jun 22:21: Processing 34 page-links, 2 pdf-links and 1 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:21: Extracted 50 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:21: Processing 39 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:21: Extracted 63 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:22: Processing 15 page-links, 45 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:22: Processing 43 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:22: Extracted 27 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:22: Processing 15 page-links, 41 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:22: Extracted 2 links from www.miribel.fr host
+INFO:20-Jun 22:22: Processing 43 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:22: Extracted 23 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:23: Processing 9 page-links, 47 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:23: Extracted 8 links from www.miribel.fr host
+INFO:20-Jun 22:23: Processing 44 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:23: Extracted 25 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:23: Processing 9 page-links, 46 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:23: Processing 44 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:23: Extracted 53 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:24: Processing 18 page-links, 37 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:24: Extracted 13 links from www.miribel.fr host
+INFO:20-Jun 22:24: Processing 49 page-links, 2 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:24: Extracted 58 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:25: Processing 15 page-links, 34 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:25: Processing 55 page-links, 4 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:25: Extracted 89 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:25: Processing 9 page-links, 32 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:26: Processing 57 page-links, 12 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:26: Extracted 18 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:26: Processing 10 page-links, 21 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:26: Extracted 4 links from www.miribel.fr host
+INFO:20-Jun 22:26: Processing 59 page-links, 9 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:26: Extracted 29 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:27: Processing 12 page-links, 20 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:27: Processing 72 page-links, 4 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:27: Extracted 19 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:27: Processing 9 page-links, 15 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:27: Extracted 25 links from www.miribel.fr host
+INFO:20-Jun 22:27: Processing 64 page-links, 2 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:27: Extracted 13 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:27: Processing 19 page-links, 15 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:27: Extracted 27 links from www.miribel.fr host
+INFO:20-Jun 22:28: Processing 54 page-links, 5 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:28: Extracted 9 links from www.ville-fosses95.fr host
+ERROR:20-Jun 22:32: Failed to get link type: http://www.miribel.fr/telechargements/vivre-a-miribel/762-zone-b 	 
+INFO:20-Jun 22:32: Processing 17 page-links, 23 pdf-links and 1 failed-links from www.miribel.fr
+INFO:20-Jun 22:32: Extracted 4 links from www.miribel.fr host
+INFO:20-Jun 22:33: Processing 63 page-links, 2 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:33: Extracted 4 links from www.ville-fosses95.fr host
+INFO:20-Jun 22:33: Processing 11 page-links, 24 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:33: Extracted 19 links from www.miribel.fr host
+INFO:20-Jun 22:33: Processing 14 page-links, 1 pdf-links and 0 failed-links from www.ville-fosses95.fr
+INFO:20-Jun 22:33: Processing 25 page-links, 5 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:33: Extracted 57 links from www.miribel.fr host
+INFO:20-Jun 22:33: Processing 19 page-links, 38 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:33: Extracted 26 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 26 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 24 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 24 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 31 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 31 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 22 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 22 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 4 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 3 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 17 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 17 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 14 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 14 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 11 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 11 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 5 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 5 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 3 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 3 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 6 links from www.miribel.fr host
+INFO:20-Jun 22:34: Processing 6 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:34: Extracted 6 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 6 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 9 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 9 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 5 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 5 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 24 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 24 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 27 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 27 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 2 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 2 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 7 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 7 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 4 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 4 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 2 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 2 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 3 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 3 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 10 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 10 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 28 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 28 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 22 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 22 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 31 links from www.miribel.fr host
+INFO:20-Jun 22:35: Processing 31 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:35: Extracted 28 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 28 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 39 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 39 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 26 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 26 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 7 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 7 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 23 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 45 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 45 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 29 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 27 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 29 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 29 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 34 links from www.miribel.fr host
+INFO:20-Jun 22:36: Processing 34 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:36: Extracted 36 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 33 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 25 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 22 page-links, 1 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 38 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 38 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 38 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 38 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 37 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 37 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 31 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 29 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 4 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 4 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 13 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 13 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 43 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 43 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:37: Processing 23 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:37: Extracted 25 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 25 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 40 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 40 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 26 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 26 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 23 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 40 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 40 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 27 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 27 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 23 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 26 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 26 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 4 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 4 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 13 links from www.miribel.fr host
+INFO:20-Jun 22:38: Processing 13 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:38: Extracted 41 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 41 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 27 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 27 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 23 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 35 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 35 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 19 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 19 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 17 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 17 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 44 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 44 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 31 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 31 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 37 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 37 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 27 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 27 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 3 links from www.miribel.fr host
+INFO:20-Jun 22:39: Processing 3 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:39: Extracted 24 links from www.miribel.fr host
+INFO:20-Jun 22:40: Processing 24 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:40: Extracted 56 links from www.miribel.fr host
+INFO:20-Jun 22:40: Processing 56 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:40: Extracted 39 links from www.miribel.fr host
+INFO:20-Jun 22:40: Processing 39 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:40: Extracted 43 links from www.miribel.fr host
+INFO:20-Jun 22:40: Processing 43 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:40: Extracted 36 links from www.miribel.fr host
+INFO:20-Jun 22:40: Processing 36 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:40: Extracted 24 links from www.miribel.fr host
+INFO:20-Jun 22:40: Processing 24 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:40: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:40: Processing 23 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:40: Extracted 54 links from www.miribel.fr host
+INFO:20-Jun 22:41: Processing 54 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:41: Extracted 42 links from www.miribel.fr host
+INFO:20-Jun 22:41: Processing 42 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:41: Extracted 52 links from www.miribel.fr host
+INFO:20-Jun 22:41: Processing 52 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:41: Extracted 25 links from www.miribel.fr host
+INFO:20-Jun 22:41: Processing 25 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:41: Extracted 11 links from www.miribel.fr host
+INFO:20-Jun 22:41: Processing 11 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:41: Extracted 22 links from www.miribel.fr host
+INFO:20-Jun 22:41: Processing 22 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:41: Extracted 50 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 50 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 48 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 48 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 29 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 29 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 47 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 47 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 26 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 26 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 26 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 26 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 47 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 47 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 42 links from www.miribel.fr host
+INFO:20-Jun 22:42: Processing 42 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:42: Extracted 37 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 37 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 37 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 37 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 10 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 10 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 28 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 28 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 54 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 54 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 35 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 35 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 55 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 55 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 35 links from www.miribel.fr host
+INFO:20-Jun 22:43: Processing 35 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:43: Extracted 44 links from www.miribel.fr host
+INFO:20-Jun 22:44: Processing 44 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:44: Extracted 44 links from www.miribel.fr host
+INFO:20-Jun 22:44: Processing 44 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:44: Extracted 70 links from www.miribel.fr host
+INFO:20-Jun 22:44: Processing 70 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:44: Extracted 38 links from www.miribel.fr host
+INFO:20-Jun 22:44: Processing 38 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:44: Extracted 35 links from www.miribel.fr host
+INFO:20-Jun 22:44: Processing 35 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:44: Extracted 24 links from www.miribel.fr host
+INFO:20-Jun 22:44: Processing 24 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:44: Extracted 6 links from www.miribel.fr host
+INFO:20-Jun 22:44: Processing 6 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:44: Extracted 23 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 23 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 49 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 49 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 39 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 39 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 27 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 27 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 7 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 7 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:45: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:45: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:46: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:46: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Extracted 1 links from www.miribel.fr host
+INFO:20-Jun 22:47: Processing 1 page-links, 0 pdf-links and 0 failed-links from www.miribel.fr
+INFO:20-Jun 22:47: Exit - Done
